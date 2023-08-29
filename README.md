@@ -1,1 +1,1 @@
-# dio-desafio-bd-projeto-logico-ecommerce
+# Projeto lógico de uma banco de dados para um Ecommerce
